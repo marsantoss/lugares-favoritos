@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apresentação do Ponto Turístico</title>
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo(a) à apresentação do nosso ponto turístico</h1>
+    </header>
+
+    <main>
+        <h2>Parque das Laranjeiras</h2>
+        <img src="https://source.unsplash.com/random?park, nature" alt="Foto do Parque das Laranjeiras">
+        <p>Um dos lugares que mais amo é o Parque das Laranjeiras. Ele é uma ótima opção para fazer um picnic, passear com o cachorro ou até mesmo se entregar a uma deliciosa piada na árvore de laranjeiras.</p>
+
+        <h2>Mercado do Omoador</h2>
+        <img src="https://source.unsplash.com/random?market, grocery" alt="Foto do Mercado do Omoador">
+        <p>O Mercado do Omoador é outro de meus lugares favoritos. Nele, você pode encontrar a melhor comida caseira e aromas doce-amar, que só existe em minha cidade. Aconselho a dar uma passeata e a provar alguns pratos!</p>
+
+        <h2>Praia do Foz do Itajaí</h2>
+        <img src="https://source.unsplash.com/random?beach, sunset" alt="Foto da Praia do Foz do Itajaí">
+        <p>Uma visita à Praia do Foz do Itajaí é uma experiência única. Lá, você pode desfrutar de uma paisagem paradisíaca, combinada com uma deliciosa piada na água e com o melhor solsete.</p>
+    </main>
